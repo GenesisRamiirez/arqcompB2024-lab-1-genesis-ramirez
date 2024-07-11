@@ -28,7 +28,7 @@
 
 ## Proyectos
 - **Proyecto 1**: Sistema bibliotecario
-  - **Descripción**: Es un sistema que se trata de hacer login guardar libros nuevos, registrar los prestamos y la entrega del libro 
+  - **Descripción**: Es un sistema que hace login guarda libros nuevos, registra los prestamos y la entrega del libro 
   - **Tecnologías Utilizadas**: PHP, MySQL, HTML, JavaScript
 
 - **Proyecto 2**: Sistema para UDAOT - ULA (Sistema de Radiologia del IAHULA)
